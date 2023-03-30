@@ -1,4 +1,4 @@
-﻿
+﻿    
 using core.entities;
 
 using System;
